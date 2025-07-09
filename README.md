@@ -1,2 +1,4 @@
+This is my practice program.
+
 # streamlit_test
-Publish images using Streamlit with GitHub.
+Publish stock price images using Streamlit.
